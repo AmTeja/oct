@@ -1,1 +1,3 @@
-"# oct" 
+# Oct
+
+Compiler based on C#.
